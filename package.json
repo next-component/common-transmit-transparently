@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0"
+    "react": "^16.2.0"
   }
 }
